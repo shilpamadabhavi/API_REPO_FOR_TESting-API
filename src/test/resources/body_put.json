@@ -1,0 +1,10 @@
+{
+        "firstName": "Varun",
+        "lastName": "Choudry",
+        "email": "Varun78@gmail.com",
+        "programme": "Telecom",
+        "courses": [
+            "Signals and System",
+            "Other Telecom Subjects"
+        ]
+    }
