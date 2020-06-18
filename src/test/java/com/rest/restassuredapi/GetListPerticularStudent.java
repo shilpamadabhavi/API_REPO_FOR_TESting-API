@@ -2,11 +2,12 @@ package com.rest.restassuredapi;
 
 import org.testng.annotations.Test;
 
+
+
 import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
+
 import static org.hamcrest.Matchers.*;
 public class GetListPerticularStudent {
-
 	@Test
 	public void Test_case1() {
 		baseURI="http://localhost:8080";

@@ -45,6 +45,7 @@ public class Test_case1 {
 		 
 		  List<String> course = jp.get("[6].courses");
 		  System.out.println(course.get(0)+""+course.get(1)+""+course.get(2));
+		 List<String> list = jp.getList("[6].courses");
 		
 	}
 }
